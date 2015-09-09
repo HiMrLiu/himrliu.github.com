@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+  <url>
+    <loc>https://himrliu.github.io/2015/09/09/html5/HTML5-1/</loc>
+    <lastmod>2015-09-09T08:01:38.697Z</lastmod>
+    <data>
+        <display>
+        <title>HTML5入门教程1</title>
+        <pubTime>2015-09-09T08:01:38.697Z</pubTime>
+        
+        <tag>HTML5 </tag>
+         
+        <tag>HTML5UI库 </tag>
+         
+        <tag>audio音频播放 </tag>
+         
+        <tag>video视频播放 </tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="https://himrliu.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="网页" url="https://himrliu.github.io/categories/%E5%89%8D%E7%AB%AF/%E7%BD%91%E9%A1%B5/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://himrliu.github.io/2015/09/05/Hello-MrLiu/</loc>
+    <lastmod>2015-09-04T16:27:31.122Z</lastmod>
+    <data>
+        <display>
+        <title>Hello MrLiu</title>
+        <pubTime>2015-09-04T16:27:31.122Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
